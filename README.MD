@@ -33,4 +33,4 @@ if everything is done, you can run the container by single line like bellow
 ```
 or you can make `docker-compose` file like i was created. 
 
-**\<Kankuu\>** dont be hesitate to make an __`Issue`__ or __`Pull Request`__ :>
+**<Kankuu>** dont be hesitate to make an __`Issue`__ or __`Pull Request`__ :>
